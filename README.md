@@ -53,4 +53,7 @@ Once again, although the previous two deliverables led to the creation of our ch
 ![image](https://user-images.githubusercontent.com/102266450/167278303-5fd02187-add7-4bfc-9e8c-e2258f194a86.png)
 
 ## Summary
-statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
+Here are three recommendations we hold according to our data: 
+1. We need to question if this data would hold true if the study were larger. The city types of suburba, urban, and rural are a good start in terms of categorization---but it would still benefit PyBer for more sample data. 
+2. However, we must also yield caution in focusing too much on the current city types. We recommend putting more resources in densley populated areas, as they are likely most underserved, and in need of the ride-sharing solutions than the rural locations. 
+3. We recommend increasing the number of riders in all locations. Currently, there are only 78 total drivers in the rural bucket, with 125 total rides accounted for. For suburban areas, we see that 625 rides are served by only 490 drivers!
